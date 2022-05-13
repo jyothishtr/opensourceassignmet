@@ -1,0 +1,15 @@
+{
+  "name": "osse assignmet",
+  "version": "1.0.0",
+  "description": "Open Source Software Engineering",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nodemon": "nodemon app.js"
+  },
+  "author": "Jyothish Thyagarajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+  }
+}
